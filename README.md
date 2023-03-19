@@ -26,10 +26,15 @@ This will scan your system for Electron apps and give you the location for all t
 
 ## Example Output
 Found app.asar file: C:\Users\USERNAME\AppData\Local\Discord\app-1.0.9011\resources
+
 Found app.asar file: C:\Users\USERNAME\AppData\Local\Microsoft\Teams\current\resources
+
 Found app.asar file: C:\Users\USERNAME\AppData\Local\Microsoft\Teams\previous\resources
+
 Found app.asar file: C:\Users\USERNAME\AppData\Local\Programdata\Discord\app-1.0.9011\resources
+
 Found app.asar file: C:\Users\USERNAME\AppData\Local\Programdata\Microsoft\Teams\current\resources
+
 Found app.asar file: C:\Users\USERNAME\AppData\Local\Programdata\Microsoft\Teams\previous\resources
 
 ## Contributing
