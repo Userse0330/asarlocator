@@ -22,7 +22,7 @@ To use Asarlocator, run the following command:
 python3 main.py
 
 
-This will scan your system for Electron apps and extract the .asar files from them.
+This will scan your system for Electron apps and give you the location for all the .asar files.
 
 
 
